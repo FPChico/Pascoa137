@@ -1,0 +1,29 @@
+{
+  "id": 1371534096,
+  "username": "Flex",
+  "firstName": "Flex",
+  "lastName": "One",
+  "email": "flex@teste.com",
+  "password": "abcdf",
+  "phone": "1180005619",
+  "userStatus": 0
+}
+
+
+//{
+  userId
+curl -X 'PUT' '\
+'https://petstore.swagger.io/v2/user/Flex%20' '\
+-H 'accept: application/json' '\
+-H 'Content-Type: application/json' '\
+-d
+'{
+"id": 1371534096,
+"username": "Flex",
+"firstName": "Flex",
+"lastName": "One",
+"email": "flex@teste.com",
+"password": "123456",
+"phone": "1134494385",
+"userStatus": 0
+}'

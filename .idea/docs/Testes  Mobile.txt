@@ -1,0 +1,31 @@
+Testes Mobile
+- Smartphones: Android ou iOS (iPhone) --> Celular Android
+- Smartwatches: relógios
+- Smartbands: pulseiras
+- SmartTV
+- Tablets
+- Qualquer outros dispositivos que suporte Android ou iOS
+
+Alvos:
+- Site responsivos - adapta aos formatos e resoluções das telas - WebDAV
+- Aplicativos
+>> Nativos: Android ou iOS (caro, praticamente dobrar o time, permite um ótimo app)
+>> Hibrido: 1 código gera os 2 app (barato, um teste só, apps mais padrão)
+
+Pré-requisitos:
+- Android (Linux): qualquer computador ou notebook Intel/AMD ser
+- iOS/iPhone: precisa ter um hardware Mac(Apple) - testar Android e iOS
+- Memória RAM: >= 16GB
+- Placa de Video offboard
+- Suporte a Virtualização
+- Espaço em Disco (1 Tb) --> SSD
+- SDks (Kit de Desenvolvimento de Softwares, 1 para cada versão do SO
+- Imagens dos celulares (1 para cada modelo de celular)
+
+Executar os testes
+- Dispositivos
+>> fisicos
+>> emulador
+- Onde é realizado o teste
+>> local, via cabo USB
+>> remoto
